@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "99000550969",
+    "project_id": "smart-retina",
+    "storage_bucket": "smart-retina.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99000550969:android:018787ed97c77f4248afe8",
+        "android_client_info": {
+          "package_name": "com.example.smart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99000550969-ckgl479d03dhian98vk6ad1gmbeps1pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJgsILVg9FfMO-2awFDwrVto5OO7mRijQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99000550969-ckgl479d03dhian98vk6ad1gmbeps1pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
